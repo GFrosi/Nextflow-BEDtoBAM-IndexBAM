@@ -3,11 +3,7 @@
 A short pipeline to generated the sorted BAM files and their index files (bam.bai)
 
 
-<<<<<<< HEAD
 ## Setup
-=======
-##Setup
->>>>>>> 8accd7c6f87d6fa2571d8dfcb2930a2ca58e1d15
 
 The bedtoolToBam.nf pipeline receives a list of samples (path to each sample, in this case just one). This sample will be unziped and stored in a new BED file. The BED file will be converted in a BAM file, and this last one will be sorted (sorted.BAM). The sorted.BAM file will be used to generate the BAM.bai file for our sample.
 
@@ -21,11 +17,7 @@ clusterOptions = '--account= ADD_YOUR_ACCOUNT
 
 ``` 
 
-<<<<<<< HEAD
 ## Usage
-=======
-##Usage
->>>>>>> 8accd7c6f87d6fa2571d8dfcb2930a2ca58e1d15
 
 You should to adjust the run-nextflow.sh with your account and check the command. To run the .sh file you just do:
 

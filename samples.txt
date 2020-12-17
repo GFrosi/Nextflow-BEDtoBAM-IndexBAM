@@ -1,0 +1,1 @@
+/sample1/SRR7070732_1.merged.nodup.tagAlign.gz

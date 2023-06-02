@@ -1,6 +1,6 @@
 # Nextflow-BEDtoBAM-IndexBAM
 
-A short pipeline to generated the sorted BAM files and their index files (bam.bai)
+A short pipeline to generate the sorted BAM files and their index files (bam.bai)
 
 
 ## Setup
